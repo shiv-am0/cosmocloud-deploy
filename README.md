@@ -53,3 +53,9 @@ minikube service <frontend-service>
 ```
 
 Use the link or IP/Port information to access the application on the browser.
+
+## Monitoring
+Run the below command to view the dashboard and metrics of the kubernetes cluser:
+```bash
+minikube dashboard
+```
