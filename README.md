@@ -46,7 +46,7 @@ kubectl get pods
 kubectl get services
 ```
 
-## Running on Browser 
+## Accessing on Browser 
 Run the following command to access the application on the browser:
 ```bash
 minikube service <frontend-service>
