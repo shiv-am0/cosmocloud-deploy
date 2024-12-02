@@ -10,7 +10,7 @@ frontend:
   replicas: 1
   env:
     BACKEND_URL: http://backend-svc:8000
-  port: 5175
+  port: 5173
   nodePort: 31000
 
 redis:
